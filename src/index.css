@@ -1,0 +1,7 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.ant-drawer {
+  z-index: 99999 !important;
+}
